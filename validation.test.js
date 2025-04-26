@@ -8,5 +8,6 @@ describe('fibonacciSum', () => {
         expect(fibonacciSum([1, 1, 2, 3, 5])).toEqual(12)
         expect(fibonacciSum([1, 1, 2, 3, 5, 8])).toEqual(20)
         expect(fibonacciSum([1, 1, 2, 3, 5, 8, 13])).toEqual(33)
+        expect(fibonacciSum([1, 1, 2, 3, 5, 8, 13, 21])).toEqual(54)
     })
 })
