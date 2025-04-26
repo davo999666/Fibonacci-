@@ -1,0 +1,16 @@
+{
+  "name": "homework_25_04",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [],
+  "author": "David",
+  "license": "ISC",
+  "description": "fibonacci",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
